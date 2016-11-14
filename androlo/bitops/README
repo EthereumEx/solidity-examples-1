@@ -1,0 +1,1 @@
+Tests can be run in the online compiler. All "Fail" tests should throw, which means it should say 'Illegal JUMP' error.
